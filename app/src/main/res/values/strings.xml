@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">negotiate</string>
+    <string name="enter_the_product_quantity_gm">enter the product quantity(GM):</string>
+    <string name="enter_the_market_rate">enter the market rate:</string>
+    <string name="enter_the_what_you_wanted_quantity_gm">enter the what you wanted quantity(GM):</string>
+    <string name="process">process</string>
+    <string name="enter_the_quantity_in_gram">enter the quantity in gram:</string>
+    <string name="enter_the_what_you_wanted_quantity_gram">jf</string>
+    <string name="enter_the_the_buyer_quantity">enter the the buyer quantity:</string>
+    <string name="enter_the_seller_s_quantity">enter the seller\'s quantity:</string>
+    <string name="enter_the_seller_rate">enter the seller rate:</string>
+</resources>
